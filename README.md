@@ -3,8 +3,6 @@
 CS PhD candidate at **UMass Amherst** in the SPIN Lab, advised by Prof. Amir Houmansadr.
 I study where AI systems that reason and act — **VLA models, embodied agents, and LLM agents** — fail under realistic conditions, and how to make them more reliable.
 
-🔎 **Looking for Summer 2027 research internships** in AI security, safety, and robustness.
-
 ### Selected work
 - **ReasonBreak** — vulnerabilities in reasoning-enabled driving VLAs (NVIDIA Alpamayo, AutoVLA); with Qualcomm. [[paper]](https://arxiv.org/abs/2605.29114)
 - **Network-Level Prompt and Trait Leakage in Local Research Agents** — *USENIX Security '26*. [[paper]](https://arxiv.org/abs/2508.20282) [[code]](https://github.com/umass-aisec/wra)
